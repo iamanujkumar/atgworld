@@ -3,8 +3,6 @@ let signin = document.querySelector(".sign-in-page-section")
 let nologin = document.querySelector(".onclick-login-hide")
 let login = document.querySelector(".onclick-login-show")
 
-
-
 const gotosignin = () => {
     signup.style.display = "none";
     signin.style.display = "flex"
